@@ -1,0 +1,8 @@
+# Levanter WhatsApp Bot
+
+Simple WhatsApp bot for WhatsApp groups.
+
+## How to run
+1. Install dependencies: npm install
+2. Start bot: node index.js
+3. Scan QR code in WhatsApp → Settings → Linked Devices → Link a Device
